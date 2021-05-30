@@ -8,5 +8,5 @@ ImagesLib.py - library for handling Images (find different images, blend images 
 
 ParsedLog.py - very simple class for handling logs.
 
-GraphTimeLine.py - the tool for comparing results on a timescale.
+GraphTimeLine.py - the tool for comparing results on a timescale. For example use autovision_v1 and autovision_v2 folders to see, how GrapTimeline working is.
 
