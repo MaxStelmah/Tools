@@ -6,6 +6,7 @@ FilesLib.py - library for handling files and folders (list files, copy files, cl
 
 ImagesLib.py - library for handling Images (find different images, blend images ...)
 
-ParsedLog.py - very simple class for handling logs
+ParsedLog.py - very simple class for handling logs.
 
-GraphTimeLine.py - the tool for comparing results on a timescale
+GraphTimeLine.py - the tool for comparing results on a timescale.
+
