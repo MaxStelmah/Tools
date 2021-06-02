@@ -2,12 +2,15 @@
 
 Here I am going to post some part of my framework, which is making live, development and tests easier.
 
-FilesLib.py - library for handling files and folders (list files, copy files, clear folders ...)
+### FilesLib.py - library for handling files and folders (list files, copy files, clear folders ...)
 
-ImagesLib.py - library for handling Images (find different images, blend images ...)
+#### def copyDifferentImages(folderForScanningImages, folderForResImages, filterPersent) # you can filter you images to find some specific pictures
 
-ParsedLog.py - very simple class for handling logs.
+### ImagesLib.py - library for handling Images (find different images, blend images ...)
 
-GraphTimeLine.py - the tool for comparing results on a timescale. For example use autovision_v1 and autovision_v2 folders to see, how GrapTimeline working is. See the screenshot below.
+### ParsedLog.py - very simple class for handling logs.
+
+### GraphTimeLine.py - the tool for comparing results on a timescale. For example use autovision_v1 and autovision_v2 folders to see, how GrapTimeline working is. See the screenshot below.
 ![GrapTimeline screenshot](https://github.com/MaxStelmah/Tools/blob/add_first_tools/GraphTimeLineImg.png "Screenshot")
 
+### svc checker - is a simple but wonderful tool to show you which Windows service felt down. Very useful to test with, if your Windows application makes it's own services.
