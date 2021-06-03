@@ -34,7 +34,7 @@ The tool for comparing results on a timescale. For example use autovision_v1 and
 
 ## svc checker 
 
-Using Scirra Construct 2 [Scirra Construct 2](https://www.scirra.com/) I created a very simple but absolutely useful tool to show you which Windows service felt down. Very convinient to test with, if your Windows application makes it's own services.
+Using [Scirra Construct 2](https://www.scirra.com/) I created a very simple but absolutely useful tool to show you which Windows service felt down. Very convinient to test with, if your Windows application makes it's own services.
 
 <br>
 
