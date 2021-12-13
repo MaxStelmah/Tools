@@ -39,3 +39,14 @@ Using [Scirra Construct 2](https://www.scirra.com/) I created a very simple but 
 <br>
 
 ![svc_checker](/Content/svc_checker.png?raw=true "Screenshot")
+
+## VideoEventsCounter
+
+This app I created with [Scirra Construct 2](https://www.scirra.com/) just in couple hours. But it release me and some other test-engineers a lot of hours. Actually it can increase the speed of work by 3 times if you need to record a log for for a very events loaded movie (autopilots, convejors, crowded scenes).
+
+<br>
+You can add and drag&drop green markers. You can drag&drop and record up to 4 counters. If you need you can easily axtend the functionality by Construct 2.
+
+<br>
+
+![VideoEventsCounter](/Content/VideoEventsCounterScreenshot.png?raw=true "Screenshot")
