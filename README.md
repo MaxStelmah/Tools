@@ -65,7 +65,7 @@ An application created with [Scirra Construct 2](https://www.scirra.com/) to str
 
 ### Features
 - Add and drag & drop green markers
-- Drag & drop and record up to 4 counters
+- Record up to 4 counters
 - Easily extendable functionality using Construct 2
 
 ![VideoEventsCounter](/Content/VideoEventsCounterScreenshot.png?raw=true "Screenshot")
@@ -77,11 +77,11 @@ This is a custom screenshoter script that can save your screenshots according to
 ### Features
 - Save screenshots based on custom parameters
 - Standard editing capabilities:
-  - Draw arrows and rectangles
+  - Draw arrows, rectangles, bars
+  - Add text
   - Blur specific areas
   - Cut images
-- And more editing functionalities
+  - Undo changes
+  - Chose colors
 
 ---
-
-Feel free to contribute to this project or report any issues you encounter. Happy coding!
