@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2project>
+    <name>svc checker</name>
+    <description>ewr</description>
+    <version>1.0.0.0</version>
+    <author>wer</author>
+    <author-email>wer</author-email>
+    <author-website>http://</author-website>
+    <app-id>com.mycompany.myapp</app-id>
+    <unique-id>18lw49kvwfrxy</unique-id>
+    <saved-with-version>27900</saved-with-version>
+    <used-plugins>
+        <plugin author="Scirra" id="AJAX" version="1">AJAX</plugin>
+        <plugin author="Scirra" id="NodeWebkit" version="1">NW.js</plugin>
+        <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
+        <plugin author="Scirra" id="Text" version="1">Text</plugin>
+        <plugin author="Scirra" id="TextBox" version="1">Text box</plugin>
+    </used-plugins>
+    <used-behaviors />
+    <used-effects />
+    <configurations>
+        <configuration exporter-descname="HTML5" exporter-id="html5" name="HTML5" />
+    </configurations>
+    <window-size>
+        <width>400</width>
+        <height>350</height>
+    </window-size>
+    <pixel-rounding>0</pixel-rounding>
+    <preview-effects>1</preview-effects>
+    <use-loader-layout>0</use-loader-layout>
+    <configuration-settings>
+        <prop name="Clear background">Yes</prop>
+        <prop name="Downscaling">Medium quality</prop>
+        <prop name="Enable WebGL">On</prop>
+        <prop name="Fullscreen in browser">Letterbox scale</prop>
+        <prop name="Fullscreen scaling">High quality</prop>
+        <prop name="Loader style">Construct 2 splash</prop>
+        <prop name="Orientations">Any</prop>
+        <prop name="Pause on unfocus">No</prop>
+        <prop name="Physics engine">Box2D asm.js</prop>
+        <prop name="Preload sounds">Yes</prop>
+        <prop name="Preview browser">NW.js</prop>
+        <prop name="Sampling">Linear</prop>
+        <prop name="Use high-DPI display">Yes</prop>
+    </configuration-settings>
+    <object-folder>
+        <object-type name="NWjs" sid="224389788629748">
+            <plugin id="NodeWebkit" />
+        </object-type>
+        <object-type name="AJAX" sid="659122625741519">
+            <plugin id="AJAX" />
+        </object-type>
+        <object-type name="txtResAud" sid="907462803221809">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="txtResErr" sid="357765172427959">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="txtResArch" sid="506571164263425">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="inpAud" sid="144856829658197">
+            <plugin id="TextBox" />
+        </object-type>
+        <object-type name="inpSearch" sid="633996763417549">
+            <plugin id="TextBox" />
+        </object-type>
+        <object-type name="inpSec" sid="216100103956781">
+            <plugin id="TextBox" />
+        </object-type>
+        <object-type name="txtResSearch" sid="884575524274479">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="txtResSec" sid="928736975322211">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="sprtLedAud" sid="908540796471133">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="2" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="393739825336289" speed="5">
+                    <frame duration="1" hotspotX="0.514286" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="sprtLedSearch" sid="607438921126650">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="2" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="509711012111042" speed="5">
+                    <frame duration="1" hotspotX="0.514286" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="sprtLedSec" sid="120435671093922">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="2" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="664258195469284" speed="5">
+                    <frame duration="1" hotspotX="0.514286" hotspotY="0.5" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
+        </object-type>
+    </object-folder>
+    <families />
+    <layout-folder>
+        <layout>Layout 1.xml</layout>
+    </layout-folder>
+    <event-folder>
+        <event-sheet>Event sheet 1.xml</event-sheet>
+    </event-folder>
+    <global-instances>
+        <global-instance type="NWjs" uid="0" />
+        <global-instance type="AJAX" uid="1" />
+    </global-instances>
+    <sounds-folder />
+    <music-folder />
+    <files-folder>
+        <file-folder name="Icons">
+            <file name="icon-16.png" />
+            <file name="icon-32.png" />
+            <file name="icon-114.png" />
+            <file name="icon-128.png" />
+            <file name="icon-256.png" />
+            <file name="loading-logo.png" />
+        </file-folder>
+        <file name="test.txt" />
+        <file name="task.txt" />
+        <file name="resAudiosrv.txt" />
+        <file name="resSecur.txt" />
+        <file name="resWSearch.txt" />
+    </files-folder>
+</c2project>
