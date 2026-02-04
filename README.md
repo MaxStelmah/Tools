@@ -1,6 +1,27 @@
-# Tools
+### This repository contains: 
+- ### a collection of tools that reduce manual work in testing, data analysis, and product validation;
+- ### python libraries for files, images and logs processing.
 
-A collection of tools and libraries to make development, testing, and daily tasks easier.
+# Tools:
+
+## Events to graph timeline builder
+If you have a bunch of events and images related to the events with timestamps, you can build a graphic timeline or several timelines on the time scale.
+[More](https://www.scirra.com/)
+
+## Screenshoter
+
+## Simple UI test starter
+
+## Video events and recorder
+
+## SVC checker (for windows)
+
+# Libraries
+
+## files
+## images
+## logs
+
 
 ## Table of Contents
 - [FilesLib.py](#fileslibpy)
