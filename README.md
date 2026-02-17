@@ -25,9 +25,8 @@ The tool allows to watch services in Windows OS.
 This is a convenient way for testing Windows applications stability when they create their own services. 
 [More](https://github.com/MaxStelmah/Tools/tree/main/tools/SVCCheker/)
 
-## 2. Python libraries for files, images and logs processing:
+## 2. Support python libraries for processing:
 
-- ### files
-- ### images
-- ### logs
-[More](https://github.com/MaxStelmah/Tools/tree/main/libs/)
+- ### [files](/libs/files)
+- ### [images](libs/images)
+- ### [logs](libs/logs)
